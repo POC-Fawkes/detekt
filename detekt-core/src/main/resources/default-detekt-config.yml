@@ -468,7 +468,7 @@ potential-bugs:
   HasPlatformType:
     active: false
   IgnoredReturnValue:
-    active: true
+    active: false
     restrictToAnnotatedMethods: true
     returnValueAnnotations: ['*.CheckReturnValue', '*.CheckResult']
   ImplicitDefaultLocale:
